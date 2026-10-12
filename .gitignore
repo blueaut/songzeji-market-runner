@@ -1,0 +1,4 @@
+market-data/cache/
+trading-ui/dist/
+__pycache__/
+.env*

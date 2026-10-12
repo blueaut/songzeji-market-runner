@@ -1,0 +1,12 @@
+{
+  "version": "research-0.3",
+  "mode": "simulation_only",
+  "risk_per_trade": "0.01",
+  "max_single_position": "0.20",
+  "max_total_position": "0.60",
+  "max_positions": 5,
+  "max_open_planned_risk": "0.04",
+  "pause_drawdown": "0.05",
+  "cost_buffer_rate": "0.006",
+  "minimum_cost_buffer": "10.00"
+}
